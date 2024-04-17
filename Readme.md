@@ -33,3 +33,6 @@ Exemplos:
 Exemplos: 
 - [x] Os dados devem ser enviadaos para a software web;
 - [x] O caminhão deve estar seguindo normas de segurança, IA;
+
+# Model class for this project
+![Diagrama](diagram/diagram_process_data.drawio.png)
