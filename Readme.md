@@ -36,3 +36,7 @@ Exemplos:
 
 # Model class for this project
 ![Diagrama](diagram/diagram_process_data.drawio.png)
+
+# Model relational data 
+
+![Diagrama](diagram/Diagram_BD.jpg)
