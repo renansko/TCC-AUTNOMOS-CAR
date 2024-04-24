@@ -1,3 +1,5 @@
 .node
 .\__pychache__
 .\Autonomos\Simulator Udacity
+.\CreateModelNural\data\AUTONOMOUS_CAR\IMG
+.\CreateModelNural\data\AUTONOMOUS_CAR\driving_log.csv
