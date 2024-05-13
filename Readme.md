@@ -1,4 +1,4 @@
-# TCC - Estudo orientado e simulador para controle de tráfego de veículos de transporte autônomos
+s# TCC - Estudo orientado e simulador para controle de tráfego de veículos de transporte autônomos
 
 ## RFs (Requisitos funcionais)
 Exemplos:
@@ -39,4 +39,4 @@ Exemplos:
 
 # Model relational data 
 
-![Diagrama](diagram/Diagram_BD.jpg)
+![Diagrama](diagram/Diagram_BD.drawio.png)
